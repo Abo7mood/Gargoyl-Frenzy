@@ -64,3 +64,7 @@ The result? A game where players don’t just run endlessly but compete with rea
 
 Looking back, this project reflects my growth as a game developer and my vision for integrating new technologies into gaming. 🚀
 
+ 🎮 Demo 🎮
+--------------------------
+
+The demo inside the folder with the name : GargoylFrenzy_Demo
